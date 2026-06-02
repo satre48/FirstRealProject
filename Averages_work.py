@@ -8,4 +8,3 @@ df.describe()
 
 # Let's see what the average value is for everyone
 df["value"].mean()
-
